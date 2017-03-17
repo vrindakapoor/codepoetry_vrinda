@@ -1,3 +1,5 @@
+cap log close
+
 clear all
 set more off
 syuse auto
