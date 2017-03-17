@@ -1,6 +1,8 @@
 clear all
 set more off
 syuse auto
-reg price mpg
+reg price mpg, robust
 
 summ length
+
+
