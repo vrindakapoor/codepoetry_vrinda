@@ -8,3 +8,6 @@ reg price mpg, robust
 summ length
 
 summ price
+
+
+tab length
